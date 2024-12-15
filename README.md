@@ -34,6 +34,8 @@ A Professional **Software Engineer** with over 6 years of experience in developi
 
 ## GitHub Stats at a Glance
 
+[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0arifurrahman0&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![0arifurrahman0's Stats](https://github-readme-stats.vercel.app/api?username=0arifurrahman0&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 ## Consistent Streak & Top Languages
@@ -48,6 +50,7 @@ A Professional **Software Engineer** with over 6 years of experience in developi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0arifurrahman0)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/0arifurrahman0)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@oddhayon7027)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0arifurrahman0&label=Profile%20views&color=0e75b6&style=flat" alt="Arifur Rahman" /> </p
 ## 🤝 Contributions
 
 This repository is open to collaboration! If you have any suggestions, ideas, or issues, please open a pull request or raise an issue.
