@@ -13,6 +13,8 @@ A Professional **Software Engineer** with over 6 years of experience in developi
 ### Frameworks & Libraries  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4CAF50?style=flat-square&logo=laravel&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-4CAF50?style=flat-square&logo=javascript&logoColor=white)
 
